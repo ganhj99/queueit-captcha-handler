@@ -45,9 +45,9 @@ curl --request POST \
 
 ## Queue IT Captcha (BotDetect)
 Queue IT offers to their clients to use their own Captcha solution, known as **BotDetect** as well.
-It is an image based captcha, that you cna easly solve with our APIs.
+It is an image based captcha, that you can easly solve with our APIs.
 
-<img src="./media/sample_queueit.png" alt="Queue-IT's Captcha" width="500" /> 
+<img src="./media/sample_queueit.png" alt="Queue-IT's Captcha" width="400" /> 
 
 Check out [queueit.py](./queueit.py) for an example script
 
