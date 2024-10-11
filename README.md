@@ -11,6 +11,10 @@ Some captchas are based on text displayed in a tricky way inside an image. We ha
 ## Sponsor
 [<img width="960" alt="CapSolver Ads" src="https://github.com/user-attachments/assets/f321b383-6931-4def-802a-68161cfaec1d">](https://www.capsolver.com/?utm_source=github&utm_medium=repo&utm_campaign=scraping&utm_term=queueit-captcha-handler)
 
+Consider buy me a coffee to keep the server running
+
+<a href="https://www.buymeacoffee.com/ganhj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## The API (Free to Use)
 We have two endpoints that works for images OCR. By passing an image as base64 string, it will return a JSON containing the extracted text
 
